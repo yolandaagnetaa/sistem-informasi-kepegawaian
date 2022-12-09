@@ -1,0 +1,20 @@
+# pack-refs with: peeled fully-peeled sorted 
+4ba78b00e88d73b26c4b48095797b8c8d2a619d7 refs/remotes/origin/dependabot/composer/guzzlehttp/guzzle-7.4.5
+ccb1dc388d1a13bde6a36df97df71af8d9baa8e4 refs/remotes/origin/dependabot/composer/guzzlehttp/psr7-2.2.1
+f4013a7a5cfe2e13fb9d62cf6626f8e4d34306ee refs/remotes/origin/dependabot/composer/symfony/http-kernel-4.4.13
+669ac1144669f32b1a1731da337eb881e1e3039a refs/remotes/origin/dependabot/npm_and_yarn/acorn-6.4.1
+c283668a0fa98a43016b8c1e0a45729880cf07c3 refs/remotes/origin/dependabot/npm_and_yarn/async-2.6.4
+6a2a41bad75bed77f046eab78c6906ac9492d46d refs/remotes/origin/dependabot/npm_and_yarn/elliptic-6.5.3
+56fad1b108aab01713764de8ef52ac066ff3c869 refs/remotes/origin/dependabot/npm_and_yarn/follow-redirects-1.14.8
+f65b8aad1b3d4cd9c21ff01381e033cf984a63af refs/remotes/origin/dependabot/npm_and_yarn/http-proxy-1.18.1
+8cdaae622f8726bbc36662a056b53a64548906de refs/remotes/origin/dependabot/npm_and_yarn/jquery-3.5.0
+84958ed57dcc1ab9288c04fbbbe2cdff143cdf99 refs/remotes/origin/dependabot/npm_and_yarn/loader-utils-1.4.2
+72404cad3eed7ea132c295621dc7ea1e09a7a0de refs/remotes/origin/dependabot/npm_and_yarn/lodash-4.17.19
+71944fd701171fe54741592e572141856c93d83f refs/remotes/origin/dependabot/npm_and_yarn/minimatch-3.1.2
+3278428201193d4eb3601300b7b1bd312fcd6a2d refs/remotes/origin/dependabot/npm_and_yarn/minimist-1.2.6
+d8e9794bebf69e8fc74d19217691549bfd5e803f refs/remotes/origin/dependabot/npm_and_yarn/qs-and-express-6.11.0
+ce15ffdb694186923e233678723c3893e6271030 refs/remotes/origin/dependabot/npm_and_yarn/terser-4.8.1
+d269181e47264d8af22c081da9b943c38702e32e refs/remotes/origin/dependabot/npm_and_yarn/websocket-extensions-0.1.4
+54631dad4ab06977952e5617018529cda6883911 refs/remotes/origin/imgbot
+e043f3e30e1beef6a82fedc3dd96f75e466f318e refs/remotes/origin/master
+cb36d616598f60389c34238f44048d94741c059c refs/remotes/origin/v8
